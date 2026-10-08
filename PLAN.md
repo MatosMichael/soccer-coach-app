@@ -2,7 +2,7 @@
 
 ## Milestone 1: Team Management
 
-- [ ] Define team profile attributes
+- [x] Define team profile attributes
 - [ ] Design initial application structure
 - [ ] Create backend project
 - [ ] Implement team creation
